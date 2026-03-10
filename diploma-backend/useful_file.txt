@@ -1,0 +1,21 @@
+python manage.py runserver
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py makemigrations
+
+admin
+wwwiii1982@mai.ru
+
+django-admin startproject backend
+
+/home/anastasia/dp/python_django_diploma
+source env/bin/activate
+
+python manage.py startapp app_orders
+
+python manage.py dumpdata --exclude auth.permission --exclude contenttypes > /home/anastasia/dp/python_django_diploma/diploma-backend/backend/fixtures/all_data.json
+
+python manage.py loaddata fixtures/all_data.json
+
+pip freeze > requirements.txt
+
