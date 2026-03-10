@@ -1,0 +1,21 @@
+asgiref==3.8.1
+attrs==25.3.0
+diploma-frontend @ file:///home/anastasia/dp/python_django_diploma/diploma-frontend/diploma-frontend-0.6.tar.gz#sha256=3a6b1203724b256946919b4d65b362b005ae6a9e1e93d8d765e96aa6a92764ac
+Django==5.1.7
+django-filter==25.1
+djangorestframework==3.15.2
+drf-spectacular==0.28.0
+drf-yasg==1.21.10
+inflection==0.5.1
+jsonschema==4.23.0
+jsonschema-specifications==2024.10.1
+packaging==24.2
+pillow==11.1.0
+pytz==2025.2
+PyYAML==6.0.2
+referencing==0.36.2
+rpds-py==0.23.1
+setuptools==78.0.2
+sqlparse==0.5.3
+typing_extensions==4.13.0
+uritemplate==4.1.1
